@@ -21,7 +21,7 @@
 .logo {
   height: 60px;
   width: 100%;
-  background-image: url("./images/amazon_logo.png");
+  background-image: url("./Images/amazon_logo.png");
   background-size: cover;
 }
 
@@ -110,7 +110,7 @@
 .language-img {
   width: 20px;
   height: 15px;
-  background-image: url("./images/india_flag.webp");
+  background-image: url("./Images/india_flag.webp");
   background-size: cover;
 }
 
@@ -181,7 +181,7 @@ span {
 
 .hero-section {
   height: 350px;
-  background-image: url("./images/hero_image.jpg");
+  background-image: url("./Images/hero_image.jpg");
   background-size: cover;
   display: flex;
   justify-content: center;
